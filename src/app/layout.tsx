@@ -19,13 +19,6 @@ export const metadata: Metadata = {
   description:
     "Clevitek is your trusted ServiceNow partner for implementation, development, integration, training, and managed services.",
   keywords: ["ServiceNow", "ITSM", "implementation", "integration", "consulting", "Clevitek"],
-  icons: {
-    icon: [
-      { url: "/assets/icon.svg", type: "image/svg+xml" },
-      { url: "/assets/icon.png", type: "image/png" },
-    ],
-    apple: "/assets/icon.png",
-  },
 };
 
 export default function RootLayout({
